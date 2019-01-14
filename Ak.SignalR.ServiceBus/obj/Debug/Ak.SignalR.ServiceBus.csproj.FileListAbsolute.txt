@@ -1,0 +1,14 @@
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Ak.SignalR.ServiceBus.dll.config
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Ak.SignalR.ServiceBus.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Ak.SignalR.ServiceBus.pdb
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Microsoft.ServiceBus.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Owin.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Newtonsoft.Json.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Microsoft.ServiceBus.xml
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\obj\Debug\Ak.SignalR.ServiceBus.csprojResolveAssemblyReference.cache
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\obj\Debug\Ak.SignalR.ServiceBus.dll
+C:\repo\fe\Akurates\Ak.SignalR.ServiceBus\obj\Debug\Ak.SignalR.ServiceBus.pdb
