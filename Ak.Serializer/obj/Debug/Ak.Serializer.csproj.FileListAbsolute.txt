@@ -1,0 +1,7 @@
+C:\repo\fe\Akurates\Ak.Serializer\bin\Debug\Ak.Serializer.dll
+C:\repo\fe\Akurates\Ak.Serializer\bin\Debug\Ak.Serializer.pdb
+C:\repo\fe\Akurates\Ak.Serializer\bin\Debug\Newtonsoft.Json.dll
+C:\repo\fe\Akurates\Ak.Serializer\bin\Debug\Newtonsoft.Json.xml
+C:\repo\fe\Akurates\Ak.Serializer\obj\Debug\Ak.Serializer.dll
+C:\repo\fe\Akurates\Ak.Serializer\obj\Debug\Ak.Serializer.pdb
+C:\repo\fe\Akurates\Ak.Serializer\obj\Debug\Ak.Serializer.csprojResolveAssemblyReference.cache
