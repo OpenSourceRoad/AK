@@ -1,0 +1,5 @@
+C:\repo\fe\Akurates\Ak.ServiceModel.GZipMessageEncoder\bin\Debug\Ak.ServiceModel.GZipMessageEncoder.dll
+C:\repo\fe\Akurates\Ak.ServiceModel.GZipMessageEncoder\bin\Debug\Ak.ServiceModel.GZipMessageEncoder.pdb
+C:\repo\fe\Akurates\Ak.ServiceModel.GZipMessageEncoder\obj\Debug\Ak.ServiceModel.GZipMessageEncoder.dll
+C:\repo\fe\Akurates\Ak.ServiceModel.GZipMessageEncoder\obj\Debug\Ak.ServiceModel.GZipMessageEncoder.pdb
+C:\repo\fe\Akurates\Ak.ServiceModel.GZipMessageEncoder\obj\Debug\Ak.ServiceModel.GZipMessageEncoder.csprojResolveAssemblyReference.cache
