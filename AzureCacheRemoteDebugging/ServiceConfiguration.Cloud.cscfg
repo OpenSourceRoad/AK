@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="AzureCacheRemoteDebugging" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2013-10.2.2">
+  <Role name="AzureCacheRemoteDebuggingWebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="deal" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEHqztkePrW63R2ozozOl3zEwDQYJKoZIhvcNAQEBBQAEggEAjdI55+ujMBgDSdjRbH6ABsKFhqV2ly+fbwvrfTbGIUd/tHiJLgK8V1R0PLKrC+HKJrd2S71Ff/0UCcf68f5io36MvADem0mg6OzbOFzSmp3DZexyUVPtUNLFrSfAp7zAeBTuI/FxmRv9OzXvP9WYQJvYeq2wD+OFwDFkCH8UOC8XHT3hpYfTUwyAK6lXmg8yEev1mcr0FqJwpS4To1H4hUjQsSK0KYUTXQ9mdyNTvvnFFjRweJNrIo6hvvPN9LW2xrpG70yFuEb8on2HW3rmWp4jcP0c/4v6ssus96xsModrn181x1JWPJo+7JVLtZzy/Xv5TbRNFqWvUkW/RLgXPzAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECOqvtQGY/2XfgBCJSTSpczqeZa2U9jax3nFL" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2015-06-25T23:59:59.0000000+02:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="F0337B0A16059F07F7BDD935C75D8FD9AE83FED1" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>
